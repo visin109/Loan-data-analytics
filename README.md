@@ -1,1 +1,3 @@
 # Loan-data-analytics
+ 
+Before a loan is offered,all the details including that person's family and sources are taken into account for his background information such as total members in family,car ownership,income,job,position,accomodation type etc.There are always higher default rate than non-deafulters rate.My target here was to show how defaulter's rate shouldcan be decreased.I seperated data into defaulters and non-defaultersfor a better analysis.Using above mentioned feratures I was managed to explain and differentiate variousinformation and compare it between defaulters and non-defaulters.Based on the above analysis I was able to come to conclusion about how and whom banks should provide loans to decrease the defaulter's rate.
